@@ -48,7 +48,7 @@ YAML_ROWS = [
     (1, "data", "MySQL · PostgreSQL · Pandas · NumPy"),
     (1, "containers", "Docker"),
     (1, "environment", "Linux"),
-    (1, "backend", "Flask · FastAPI · Spring Boot"),
+    (1, "backend", "Flask · Spring Boot"),
     (1, "tools", "Git · GitHub · VS Code"),
     (0, "interests", ""),
     (1, "ai", "Machine Learning"),
@@ -63,23 +63,23 @@ THEMES = {
         "panel2":  "#101B30",
         "line":    "#25344C",
         "muted":   "#8291A8",
-        "text":    "#F0E6F0",
-        "portrait":"#F78CA0",   # city pop pink
-        "chrome":  "#C9B1D9",   # city pop lavender
-        "accent":  "#F78CA0",
+        "text":    "#E8F5EE",
+        "portrait":"#79DCA4",   # mint green
+        "chrome":  "#A6E8BF",   # soft green
+        "accent":  "#79DCA4",
         "shadow":  "#02050B",
     },
     "light": {
-        "bg":      "#FDF0F3",
+        "bg":      "#F0FAF3",
         "panel":   "#FFFFFF",
-        "panel2":  "#FDE8EE",
-        "line":    "#F0C0CE",
-        "muted":   "#9B7B8A",
-        "text":    "#2D1A24",
-        "portrait":"#E05F80",
-        "chrome":  "#7B5EA7",
-        "accent":  "#E05F80",
-        "shadow":  "#D4A0B0",
+        "panel2":  "#E7F5EC",
+        "line":    "#BBDDC8",
+        "muted":   "#587362",
+        "text":    "#183326",
+        "portrait":"#238653",
+        "chrome":  "#286A48",
+        "accent":  "#238653",
+        "shadow":  "#A0C8AE",
     },
 }
 

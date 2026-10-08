@@ -71,12 +71,28 @@
 
 ---
 
-## `$ ls projects/`
+## `$ connect --socials`
 
-```txt
-- Inkafarma Order Allocation
-- AI Tender Management System
-- SmartVent IoT
-- Flask + MySQL Projects
-- Machine Learning Projects (in progress)
-```
+<div align="center">
+
+<p><code>Conectemos · Code, ideas &amp; proyectos</code></p>
+
+<a href="https://www.instagram.com/sealeee__/">
+  <img src="https://skillicons.dev/icons?i=instagram&amp;theme=dark" width="48" height="48" alt="Instagram de Sebastian">
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/sebastian-alessandro-calderon-junes-26a96026b/">
+  <img src="https://skillicons.dev/icons?i=linkedin&amp;theme=dark" width="48" height="48" alt="LinkedIn de Sebastian">
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/seale-code">
+  <img src="https://skillicons.dev/icons?i=github&amp;theme=dark" width="48" height="48" alt="GitHub de seale-code">
+</a>
+
+<p>
+  <a href="https://www.instagram.com/sealeee__/">Instagram</a> &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/sebastian-alessandro-calderon-junes-26a96026b/">LinkedIn</a> &nbsp;·&nbsp;
+  <a href="https://github.com/seale-code">GitHub</a>
+</p>
+
+</div>
